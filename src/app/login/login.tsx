@@ -4,7 +4,7 @@ export default function Login() {
       <div>
         <h1>Log in here</h1>
         <form>
-          <input name="email" placeholder="Your email address" />
+          <input name="email" placeholder="Your Email address" />
           <button type="submit">Submit</button>
         </form>
       </div>

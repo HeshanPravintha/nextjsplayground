@@ -6,6 +6,7 @@ export default function Login() {
         <form>
           <input name="email" placeholder="Your Email address" />
           <button type="submit">Submit</button>
+          <button type="submit">Cancel</button>
         </form>
       </div>
     );

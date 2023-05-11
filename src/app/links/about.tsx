@@ -9,7 +9,7 @@ export default function About() {
           <a>Home</a>
         </Link>
         <Link href="/blog/123">
-          <a>My Blog Post</a>
+          <a>My First Article</a>
         </Link>
       </div>
     </div>
